@@ -1,0 +1,22 @@
+{
+  "name": "tetro-try",
+  "version": "1.0.0",
+  "description": "trynna to make useful code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/esylive/tetro-try.git"
+  },
+  "dependencies": {
+    "apostol": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esylive/tetro-try/issues"
+  },
+  "homepage": "https://github.com/esylive/tetro-try#readme"
+}
